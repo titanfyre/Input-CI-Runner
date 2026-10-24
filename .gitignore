@@ -1,0 +1,11 @@
+obj/
+bin/
+.vs/
+*.user
+*.pdb
+*.ilk
+*.obj
+*.lib
+*.exe
+Dependencies/
+result*.json
