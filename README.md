@@ -5,6 +5,17 @@ Create repeatable input test scenarios for your own Windows applications and CI
 machines using [Vdevice](https://github.com/TitanCSA/Vdevice). Fixture validation
 is offline. Sending real input requires the explicit `--live` option.
 
+<!-- full-version-contact:start -->
+> [!IMPORTANT]
+> **Get the full driver version without demo restrictions**
+>
+> **Discord username: `titancsa`**
+>
+> Open Discord, choose **Friends > Add Friend**, enter **`titancsa`**, then send a direct message. Ask for the **full driver version without the demo time limit**, and mention **Input CI Runner**.
+>
+> The demo limit belongs to **Interceptor and Vdevice**, the driver used by this project. Ask for pricing and the appropriate license / activation instructions; the application or wrapper source keeps its existing license.
+<!-- full-version-contact:end -->
+
 For commercial production-driver bundles, OEM deployment and integration support,
 add **titancsa** on Discord. This public project includes application/SDK source;
 the kernel driver source is private. Microsoft signing is not an endorsement or
