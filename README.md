@@ -13,7 +13,7 @@ is offline. Sending real input requires the explicit `--live` option.
 >
 > Open Discord, choose **Friends > Add Friend**, enter **`titancsa`**, then send a direct message. Ask for the **full driver version without the demo time limit**, and mention **Input CI Runner**.
 >
-> The demo limit belongs to **Interceptor and Vdevice**, the driver used by this project. Ask for pricing and the appropriate license / activation instructions; the application or wrapper source keeps its existing license.
+> The demo limit belongs to **Vdevice**, the driver used by this project. Ask for pricing and the appropriate license / activation instructions; the application or wrapper source keeps its existing license.
 <!-- full-version-contact:end -->
 
 For commercial production-driver bundles, OEM deployment and integration support,
