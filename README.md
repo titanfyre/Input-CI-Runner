@@ -18,7 +18,7 @@ is offline. Sending real input requires the explicit `--live` option.
 
 For commercial production-driver bundles, OEM deployment and integration support,
 add **titancsa** on Discord. This public project includes application/SDK source;
-the kernel driver source is private. Microsoft signing is not an endorsement or
+the kernel Demo/evaluation driver source is documented in [driver/README.md](driver/README.md). Microsoft signing is not an endorsement or
 a promise that every device or application is compatible.
 
 ## Install and run
@@ -122,6 +122,12 @@ driver completion counter does not prove that an application processed an input.
 Do not compare these numbers with hardware input-to-photon measurements.
 
 ## Build and test
+
+The matching Vdevice demo driver source is available; see
+[driver/README.md](driver/README.md) for build instructions and separate
+evaluation-source terms. Those terms apply to Titan-authored driver code. Third-party
+source licenses and existing application/SDK licenses remain applicable. Full/commercial
+implementation and private signing or activation material are excluded.
 
 Install Visual Studio 2022 C++ tools, Windows SDK and CMake. No .NET or Python is
 needed at runtime. The SDK is compiled from `SDK/Vdevice.cpp` and `Vdevice.h`.
