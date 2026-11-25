@@ -1,13 +1,16 @@
 # Input CI Runner
 
+<!-- simple-start:start -->
+Check input test files before using them in an automated test.
+
+**Start here.** Run the included sample in offline mode first.
+<!-- simple-start:end -->
+
 <!-- full-version-contact:start -->
 > [!IMPORTANT]
-> **Get the version without the one-hour demo limit**
+> **Version without the one-hour demo limit**
 >
-> **Discord · `titancsa`**. Open [Discord](https://discord.com/app), choose **Friends → Add Friend**, enter **`titancsa`** and send a message.
-> Mention **Input-CI-Runner** and ask for the full **Vdevice** driver. TitanCSA will share the purchase details privately.
->
-> **FR · Version sans la limite d’une heure.** Ajoute **`titancsa`** sur Discord et envoie le nom du projet. Le lien d’achat est communiqué en privé.
+> In [Discord](https://discord.com/app), choose **Add Friend** and enter **`titancsa`**. Mention **Input-CI-Runner** and ask for the full **Vdevice** driver. Purchase details are sent privately.
 <!-- full-version-contact:end -->
 
 **A small C++17 Windows x64 CLI for validated, scheduled virtual HID fixtures.**
@@ -156,5 +159,3 @@ remain responsible for your use, applicable rules and any effects on your system
 The author does not authorize illegal use or accept responsibility for misuse.
 
 ## Commercial integration and support
-
-
