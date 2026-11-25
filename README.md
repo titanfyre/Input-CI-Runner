@@ -3,7 +3,13 @@
 <!-- simple-start:start -->
 Check input test files before using them in an automated test.
 
-**Start here.** Run the included sample in offline mode first.
+**Start here.** Extract the [Windows ZIP](https://github.com/titanfyre/Input-CI-Runner/releases/latest). Open PowerShell in that folder and run the command below.
+
+```powershell
+.\InputCIRunner.exe validate .\Examples\mouse.json
+```
+
+The result says `Valid fixture` and reports `3 reports`. [See the first-run guide](https://titancsa.github.io/guides/first-run/#runner).
 <!-- simple-start:end -->
 
 <!-- full-version-contact:start -->
