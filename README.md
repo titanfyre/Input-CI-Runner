@@ -3,7 +3,11 @@
 <!-- simple-start:start -->
 Check input test files before using them in an automated test.
 
-**Start here.** Extract the [Windows ZIP](https://github.com/titanfyre/Input-CI-Runner/releases/latest). Open PowerShell in that folder and run the command below.
+[First steps](#first-steps) · [Develop](#build-and-test) · [Maintain](https://github.com/TitanCSA/sdk-packages/blob/main/CONTRIBUTING.md)
+
+## First steps
+
+Extract the [Windows ZIP](https://github.com/titanfyre/Input-CI-Runner/releases/latest). Open PowerShell in that folder and run the command below.
 
 ```powershell
 .\InputCIRunner.exe validate .\Examples\mouse.json
